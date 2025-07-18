@@ -1,4 +1,6 @@
 # Rice Product Data Scraping Project
+This PDF contains the complete project overview, including all screenshots and every detail from start to finish.
+                                                                              https://drive.google.com/file/d/1eIMF2-wLDUtIoKfoqj5MJJ8vSZhQAlbD/view?usp=sharing
 
 ## Overview
 This project scrapes rice product data from Amazon using Selenium and simulates BigBasket API data. It is designed for clean, robust, and efficient data extraction, with a focus on code quality, error handling, and documentation.
