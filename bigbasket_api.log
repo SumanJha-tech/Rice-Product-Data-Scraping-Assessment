@@ -1,0 +1,255 @@
+2025-07-17 22:02:35,612 - INFO - Using fallback method to simulate BigBasket API...
+2025-07-17 22:02:35,613 - INFO - Generated: Lal Qilla White Rice
+2025-07-17 22:02:35,715 - INFO - Generated: Aashirvaad Jasmine Rice
+2025-07-17 22:02:35,816 - INFO - Generated: Lal Qilla Jasmine Rice
+2025-07-17 22:02:35,936 - INFO - Generated: Lal Qilla White Rice
+2025-07-17 22:02:36,037 - INFO - Generated: Fortune Brown Rice
+2025-07-17 22:02:36,138 - INFO - Generated: Fortune White Rice
+2025-07-17 22:02:36,250 - INFO - Generated: Kohinoor Ponni Rice
+2025-07-17 22:02:36,352 - INFO - Generated: Daawat White Rice
+2025-07-17 22:02:36,453 - INFO - Generated: Fortune Brown Rice
+2025-07-17 22:02:36,554 - INFO - Generated: Tilda Ponni Rice
+2025-07-17 22:02:36,656 - INFO - Generated: Fortune Ponni Rice
+2025-07-17 22:02:36,757 - INFO - Generated: Aashirvaad Basmati Rice
+2025-07-17 22:02:36,858 - INFO - Generated: India Gate Jasmine Rice
+2025-07-17 22:02:36,959 - INFO - Generated: Kohinoor Jasmine Rice
+2025-07-17 22:02:37,060 - INFO - Generated: Fortune White Rice
+2025-07-17 22:02:37,161 - INFO - Generated: Tilda White Rice
+2025-07-17 22:02:37,262 - INFO - Generated: Fortune White Rice
+2025-07-17 22:02:37,363 - INFO - Generated: Aashirvaad White Rice
+2025-07-17 22:02:37,467 - INFO - Generated: Lal Qilla Brown Rice
+2025-07-17 22:02:37,572 - INFO - Generated: Aashirvaad White Rice
+2025-07-17 22:02:37,673 - INFO - Generated: Fortune Brown Rice
+2025-07-17 22:02:37,775 - INFO - Generated: Kohinoor Brown Rice
+2025-07-17 22:02:37,877 - INFO - Generated: Tilda Ponni Rice
+2025-07-17 22:02:37,977 - INFO - Generated: Kohinoor Jasmine Rice
+2025-07-17 22:02:38,078 - INFO - Generated: Lal Qilla Ponni Rice
+2025-07-17 22:02:38,179 - INFO - Generated: Lal Qilla Sona Masuri Rice
+2025-07-17 22:02:38,280 - INFO - Generated: Tilda White Rice
+2025-07-17 22:02:38,381 - INFO - Generated: Tilda White Rice
+2025-07-17 22:02:38,482 - INFO - Generated: Kohinoor Ponni Rice
+2025-07-17 22:02:38,583 - INFO - Generated: Tilda Brown Rice
+2025-07-17 22:02:38,686 - INFO - Generated: Tilda White Rice
+2025-07-17 22:02:38,787 - INFO - Generated: Kohinoor Ponni Rice
+2025-07-17 22:02:38,888 - INFO - Generated: Lal Qilla Brown Rice
+2025-07-17 22:02:38,989 - INFO - Generated: Aashirvaad Brown Rice
+2025-07-17 22:02:39,090 - INFO - Generated: Aashirvaad Jasmine Rice
+2025-07-17 22:02:39,190 - INFO - Generated: Lal Qilla Sona Masuri Rice
+2025-07-17 22:02:39,291 - INFO - Generated: Kohinoor Sona Masuri Rice
+2025-07-17 22:02:39,392 - INFO - Generated: Daawat Jasmine Rice
+2025-07-17 22:02:39,492 - INFO - Generated: Daawat Jasmine Rice
+2025-07-17 22:02:39,593 - INFO - Generated: Fortune Jasmine Rice
+2025-07-17 22:02:39,729 - INFO - Generated: Lal Qilla Ponni Rice
+2025-07-17 22:02:39,836 - INFO - Generated: Fortune Brown Rice
+2025-07-17 22:02:39,938 - INFO - Generated: Tilda Brown Rice
+2025-07-17 22:02:40,039 - INFO - Generated: Fortune White Rice
+2025-07-17 22:02:40,140 - INFO - Generated: Kohinoor Jasmine Rice
+2025-07-17 22:02:40,242 - INFO - Data saved to bigbasket_rice_products.csv
+2025-07-17 22:02:40,244 - INFO - Data saved to bigbasket_rice_products.json
+2025-07-17 22:23:54,074 - INFO - Using fallback method to simulate BigBasket API...
+2025-07-17 22:23:54,074 - INFO - Generated: Kohinoor Ponni Rice
+2025-07-17 22:23:54,175 - INFO - Generated: Tilda Basmati Rice
+2025-07-17 22:23:54,276 - INFO - Generated: Kohinoor Ponni Rice
+2025-07-17 22:23:54,377 - INFO - Generated: Aashirvaad White Rice
+2025-07-17 22:23:54,478 - INFO - Generated: Tilda White Rice
+2025-07-17 22:23:54,579 - INFO - Generated: Daawat Sona Masuri Rice
+2025-07-17 22:23:54,681 - INFO - Generated: Daawat Brown Rice
+2025-07-17 22:23:54,782 - INFO - Generated: India Gate Brown Rice
+2025-07-17 22:23:54,882 - INFO - Generated: Daawat Basmati Rice
+2025-07-17 22:23:54,983 - INFO - Generated: Lal Qilla White Rice
+2025-07-17 22:23:55,084 - INFO - Generated: Kohinoor Ponni Rice
+2025-07-17 22:23:55,185 - INFO - Generated: Aashirvaad Jasmine Rice
+2025-07-17 22:23:55,287 - INFO - Generated: Lal Qilla Ponni Rice
+2025-07-17 22:23:55,389 - INFO - Generated: Aashirvaad Basmati Rice
+2025-07-17 22:23:55,491 - INFO - Generated: Kohinoor Sona Masuri Rice
+2025-07-17 22:23:55,592 - INFO - Generated: Lal Qilla Sona Masuri Rice
+2025-07-17 22:23:55,693 - INFO - Generated: Tilda Sona Masuri Rice
+2025-07-17 22:23:55,794 - INFO - Generated: Kohinoor Ponni Rice
+2025-07-17 22:23:55,894 - INFO - Generated: Kohinoor Brown Rice
+2025-07-17 22:23:55,995 - INFO - Generated: Lal Qilla Basmati Rice
+2025-07-17 22:23:56,097 - INFO - Generated: Aashirvaad Brown Rice
+2025-07-17 22:23:56,197 - INFO - Generated: Fortune Sona Masuri Rice
+2025-07-17 22:23:56,299 - INFO - Generated: Aashirvaad Jasmine Rice
+2025-07-17 22:23:56,400 - INFO - Generated: Kohinoor Ponni Rice
+2025-07-17 22:23:56,501 - INFO - Generated: Fortune Sona Masuri Rice
+2025-07-17 22:23:56,602 - INFO - Generated: Aashirvaad White Rice
+2025-07-17 22:23:56,702 - INFO - Generated: Aashirvaad Ponni Rice
+2025-07-17 22:23:56,804 - INFO - Generated: India Gate Ponni Rice
+2025-07-17 22:23:56,906 - INFO - Generated: Daawat Basmati Rice
+2025-07-17 22:23:57,008 - INFO - Generated: Tilda Sona Masuri Rice
+2025-07-17 22:23:57,109 - INFO - Generated: Daawat White Rice
+2025-07-17 22:23:57,210 - INFO - Generated: Lal Qilla Sona Masuri Rice
+2025-07-17 22:23:57,311 - INFO - Generated: Tilda White Rice
+2025-07-17 22:23:57,412 - INFO - Generated: India Gate Ponni Rice
+2025-07-17 22:23:57,513 - INFO - Generated: India Gate Ponni Rice
+2025-07-17 22:23:57,614 - INFO - Generated: Daawat Ponni Rice
+2025-07-17 22:23:57,715 - INFO - Generated: Tilda White Rice
+2025-07-17 22:23:57,816 - INFO - Generated: Fortune Brown Rice
+2025-07-17 22:23:57,917 - INFO - Generated: Aashirvaad Sona Masuri Rice
+2025-07-17 22:23:58,018 - INFO - Generated: Aashirvaad Jasmine Rice
+2025-07-17 22:23:58,128 - INFO - Generated: Lal Qilla Basmati Rice
+2025-07-17 22:23:58,243 - INFO - Generated: India Gate Jasmine Rice
+2025-07-17 22:23:58,344 - INFO - Generated: Daawat Ponni Rice
+2025-07-17 22:23:58,445 - INFO - Generated: Tilda Ponni Rice
+2025-07-17 22:23:58,546 - INFO - Generated: Kohinoor Sona Masuri Rice
+2025-07-17 22:23:58,647 - INFO - Data saved to bigbasket_rice_products.csv
+2025-07-17 22:23:58,649 - INFO - Data saved to bigbasket_rice_products.json
+2025-07-17 22:30:57,695 - INFO - Using fallback method to simulate BigBasket API...
+2025-07-17 22:30:57,696 - INFO - Generated: India Gate Basmati Rice - Classic
+2025-07-17 22:30:57,696 - INFO - Generated: Kohinoor Super Basmati Rice
+2025-07-17 22:30:57,696 - INFO - Generated: Tilda Pure Basmati Rice
+2025-07-17 22:30:57,696 - INFO - Generated: Daawat Rozana Gold Basmati Rice
+2025-07-17 22:30:57,697 - INFO - Generated: Aashirvaad Select Sharbati Rice
+2025-07-17 22:30:57,697 - INFO - Generated: Kohinoor Ponni Rice
+2025-07-17 22:30:57,798 - INFO - Generated: Lal Qilla Sona Masuri Rice
+2025-07-17 22:30:57,899 - INFO - Generated: Tilda Sona Masuri Rice
+2025-07-17 22:30:58,000 - INFO - Generated: Fortune Basmati Rice
+2025-07-17 22:30:58,101 - INFO - Generated: Lal Qilla Brown Rice
+2025-07-17 22:30:58,203 - INFO - Generated: Aashirvaad Sona Masuri Rice
+2025-07-17 22:30:58,309 - INFO - Generated: India Gate Ponni Rice
+2025-07-17 22:30:58,411 - INFO - Generated: Lal Qilla Basmati Rice
+2025-07-17 22:30:58,512 - INFO - Generated: Lal Qilla Sona Masuri Rice
+2025-07-17 22:30:58,613 - INFO - Generated: Tilda Brown Rice
+2025-07-17 22:30:58,713 - INFO - Generated: India Gate Sona Masuri Rice
+2025-07-17 22:30:58,814 - INFO - Generated: Aashirvaad Sona Masuri Rice
+2025-07-17 22:30:58,915 - INFO - Generated: Tilda Basmati Rice
+2025-07-17 22:30:59,016 - INFO - Generated: Fortune Ponni Rice
+2025-07-17 22:30:59,117 - INFO - Generated: Lal Qilla Jasmine Rice
+2025-07-17 22:30:59,218 - INFO - Generated: Daawat Ponni Rice
+2025-07-17 22:30:59,319 - INFO - Generated: Lal Qilla Basmati Rice
+2025-07-17 22:30:59,421 - INFO - Generated: Tilda Brown Rice
+2025-07-17 22:30:59,523 - INFO - Generated: Fortune Basmati Rice
+2025-07-17 22:30:59,625 - INFO - Generated: Lal Qilla Ponni Rice
+2025-07-17 22:30:59,726 - INFO - Generated: Lal Qilla Brown Rice
+2025-07-17 22:30:59,828 - INFO - Generated: Lal Qilla Sona Masuri Rice
+2025-07-17 22:30:59,929 - INFO - Generated: Kohinoor Jasmine Rice
+2025-07-17 22:31:00,030 - INFO - Generated: Aashirvaad Jasmine Rice
+2025-07-17 22:31:00,131 - INFO - Generated: Aashirvaad Sona Masuri Rice
+2025-07-17 22:31:00,232 - INFO - Generated: India Gate Sona Masuri Rice
+2025-07-17 22:31:00,333 - INFO - Generated: Lal Qilla Sona Masuri Rice
+2025-07-17 22:31:00,434 - INFO - Generated: Fortune Brown Rice
+2025-07-17 22:31:00,535 - INFO - Generated: Tilda Sona Masuri Rice
+2025-07-17 22:31:00,637 - INFO - Generated: Kohinoor Brown Rice
+2025-07-17 22:31:00,739 - INFO - Generated: Aashirvaad Sona Masuri Rice
+2025-07-17 22:31:00,840 - INFO - Generated: Kohinoor Ponni Rice
+2025-07-17 22:31:00,941 - INFO - Generated: Kohinoor Sona Masuri Rice
+2025-07-17 22:31:01,043 - INFO - Generated: India Gate Jasmine Rice
+2025-07-17 22:31:01,144 - INFO - Generated: Kohinoor Basmati Rice
+2025-07-17 22:31:01,245 - INFO - Generated: Lal Qilla Ponni Rice
+2025-07-17 22:31:01,347 - INFO - Generated: Daawat Basmati Rice
+2025-07-17 22:31:01,447 - INFO - Generated: Tilda Basmati Rice
+2025-07-17 22:31:01,549 - INFO - Generated: Fortune Jasmine Rice
+2025-07-17 22:31:01,650 - INFO - Generated: India Gate Basmati Rice
+2025-07-17 22:31:01,751 - INFO - Generated: Daawat Basmati Rice
+2025-07-17 22:31:01,853 - INFO - Generated: Lal Qilla Jasmine Rice
+2025-07-17 22:31:01,955 - INFO - Generated: Daawat Sona Masuri Rice
+2025-07-17 22:31:02,056 - INFO - Generated: Daawat Basmati Rice
+2025-07-17 22:31:02,157 - INFO - Generated: Tilda White Rice
+2025-07-17 22:31:02,259 - INFO - Data saved to bigbasket_rice_products.csv
+2025-07-17 22:31:02,261 - INFO - Data saved to bigbasket_rice_products.json
+2025-07-17 23:03:24,194 - INFO - Using fallback method to simulate BigBasket API...
+2025-07-17 23:03:24,194 - INFO - Generated: India Gate Basmati Rice - Classic
+2025-07-17 23:03:24,195 - INFO - Generated: Kohinoor Super Basmati Rice
+2025-07-17 23:03:24,195 - INFO - Generated: Tilda Pure Basmati Rice
+2025-07-17 23:03:24,195 - INFO - Generated: Daawat Rozana Gold Basmati Rice
+2025-07-17 23:03:24,195 - INFO - Generated: Aashirvaad Select Sharbati Rice
+2025-07-17 23:03:24,195 - INFO - Generated: India Gate Ponni Rice
+2025-07-17 23:03:24,296 - INFO - Generated: India Gate Sona Masuri Rice
+2025-07-17 23:03:24,397 - INFO - Generated: Aashirvaad White Rice
+2025-07-17 23:03:24,498 - INFO - Generated: Tilda White Rice
+2025-07-17 23:03:24,599 - INFO - Generated: Kohinoor Brown Rice
+2025-07-17 23:03:24,700 - INFO - Generated: Tilda Brown Rice
+2025-07-17 23:03:24,801 - INFO - Generated: Daawat Ponni Rice
+2025-07-17 23:03:24,901 - INFO - Generated: Daawat Sona Masuri Rice
+2025-07-17 23:03:25,002 - INFO - Generated: Fortune Ponni Rice
+2025-07-17 23:03:25,103 - INFO - Generated: Daawat Sona Masuri Rice
+2025-07-17 23:03:25,204 - INFO - Generated: Kohinoor Brown Rice
+2025-07-17 23:03:25,304 - INFO - Generated: Lal Qilla Brown Rice
+2025-07-17 23:03:25,405 - INFO - Generated: Tilda Brown Rice
+2025-07-17 23:03:25,506 - INFO - Generated: India Gate Sona Masuri Rice
+2025-07-17 23:03:25,607 - INFO - Generated: India Gate Sona Masuri Rice
+2025-07-17 23:03:25,709 - INFO - Generated: Daawat Basmati Rice
+2025-07-17 23:03:25,810 - INFO - Generated: Fortune Jasmine Rice
+2025-07-17 23:03:25,911 - INFO - Generated: Aashirvaad Sona Masuri Rice
+2025-07-17 23:03:26,013 - INFO - Generated: India Gate Ponni Rice
+2025-07-17 23:03:26,114 - INFO - Generated: India Gate Ponni Rice
+2025-07-17 23:03:26,216 - INFO - Generated: India Gate Ponni Rice
+2025-07-17 23:03:26,318 - INFO - Generated: Kohinoor White Rice
+2025-07-17 23:03:26,419 - INFO - Generated: Tilda Basmati Rice
+2025-07-17 23:03:26,520 - INFO - Generated: Kohinoor Jasmine Rice
+2025-07-17 23:03:26,622 - INFO - Generated: Daawat Basmati Rice
+2025-07-17 23:03:26,723 - INFO - Generated: Tilda Brown Rice
+2025-07-17 23:03:26,824 - INFO - Generated: Aashirvaad Basmati Rice
+2025-07-17 23:03:26,925 - INFO - Generated: Fortune Basmati Rice
+2025-07-17 23:03:27,026 - INFO - Generated: Aashirvaad Jasmine Rice
+2025-07-17 23:03:27,127 - INFO - Generated: Tilda Jasmine Rice
+2025-07-17 23:03:27,228 - INFO - Generated: Aashirvaad White Rice
+2025-07-17 23:03:27,329 - INFO - Generated: Fortune Sona Masuri Rice
+2025-07-17 23:03:27,430 - INFO - Generated: Daawat Jasmine Rice
+2025-07-17 23:03:27,531 - INFO - Generated: Aashirvaad Brown Rice
+2025-07-17 23:03:27,632 - INFO - Generated: Aashirvaad Sona Masuri Rice
+2025-07-17 23:03:27,733 - INFO - Generated: Lal Qilla Brown Rice
+2025-07-17 23:03:27,834 - INFO - Generated: Fortune Basmati Rice
+2025-07-17 23:03:27,935 - INFO - Generated: Lal Qilla White Rice
+2025-07-17 23:03:28,036 - INFO - Generated: Aashirvaad Jasmine Rice
+2025-07-17 23:03:28,137 - INFO - Generated: Lal Qilla Jasmine Rice
+2025-07-17 23:03:28,238 - INFO - Generated: India Gate White Rice
+2025-07-17 23:03:28,339 - INFO - Generated: Lal Qilla Ponni Rice
+2025-07-17 23:03:28,440 - INFO - Generated: India Gate Jasmine Rice
+2025-07-17 23:03:28,542 - INFO - Generated: Fortune Basmati Rice
+2025-07-17 23:03:28,642 - INFO - Generated: Tilda White Rice
+2025-07-17 23:03:28,744 - INFO - Data saved to bigbasket_rice_products.csv
+2025-07-17 23:03:28,747 - INFO - Data saved to bigbasket_rice_products.json
+2025-07-18 08:36:27,106 - INFO - Using fallback method to simulate BigBasket API...
+2025-07-18 08:36:27,116 - INFO - Generated: India Gate Basmati Rice - Classic
+2025-07-18 08:36:27,116 - INFO - Generated: Kohinoor Super Basmati Rice
+2025-07-18 08:36:27,117 - INFO - Generated: Tilda Pure Basmati Rice
+2025-07-18 08:36:27,117 - INFO - Generated: Daawat Rozana Gold Basmati Rice
+2025-07-18 08:36:27,117 - INFO - Generated: Aashirvaad Select Sharbati Rice
+2025-07-18 08:36:27,117 - INFO - Generated: India Gate Sona Masuri Rice
+2025-07-18 08:36:27,218 - INFO - Generated: Fortune Ponni Rice
+2025-07-18 08:36:27,320 - INFO - Generated: India Gate White Rice
+2025-07-18 08:36:27,422 - INFO - Generated: Aashirvaad Jasmine Rice
+2025-07-18 08:36:27,523 - INFO - Generated: Lal Qilla Ponni Rice
+2025-07-18 08:36:27,625 - INFO - Generated: Aashirvaad Basmati Rice
+2025-07-18 08:36:27,726 - INFO - Generated: Aashirvaad Basmati Rice
+2025-07-18 08:36:27,826 - INFO - Generated: India Gate Basmati Rice
+2025-07-18 08:36:27,927 - INFO - Generated: Daawat Sona Masuri Rice
+2025-07-18 08:36:28,029 - INFO - Generated: Lal Qilla Brown Rice
+2025-07-18 08:36:28,130 - INFO - Generated: Tilda Ponni Rice
+2025-07-18 08:36:28,232 - INFO - Generated: Fortune Sona Masuri Rice
+2025-07-18 08:36:28,334 - INFO - Generated: Fortune Basmati Rice
+2025-07-18 08:36:28,442 - INFO - Generated: Fortune Sona Masuri Rice
+2025-07-18 08:36:28,543 - INFO - Generated: Lal Qilla Brown Rice
+2025-07-18 08:36:28,645 - INFO - Generated: Lal Qilla Jasmine Rice
+2025-07-18 08:36:28,746 - INFO - Generated: Lal Qilla Basmati Rice
+2025-07-18 08:36:28,847 - INFO - Generated: Lal Qilla White Rice
+2025-07-18 08:36:28,949 - INFO - Generated: Tilda Basmati Rice
+2025-07-18 08:36:29,050 - INFO - Generated: Fortune Basmati Rice
+2025-07-18 08:36:29,152 - INFO - Generated: Lal Qilla Ponni Rice
+2025-07-18 08:36:29,253 - INFO - Generated: Daawat Jasmine Rice
+2025-07-18 08:36:29,355 - INFO - Generated: Tilda White Rice
+2025-07-18 08:36:29,456 - INFO - Generated: Lal Qilla Brown Rice
+2025-07-18 08:36:29,558 - INFO - Generated: India Gate Sona Masuri Rice
+2025-07-18 08:36:29,659 - INFO - Generated: Aashirvaad Ponni Rice
+2025-07-18 08:36:29,760 - INFO - Generated: Daawat Basmati Rice
+2025-07-18 08:36:29,862 - INFO - Generated: Kohinoor Sona Masuri Rice
+2025-07-18 08:36:29,963 - INFO - Generated: Lal Qilla White Rice
+2025-07-18 08:36:30,064 - INFO - Generated: Daawat Basmati Rice
+2025-07-18 08:36:30,166 - INFO - Generated: Kohinoor Jasmine Rice
+2025-07-18 08:36:30,267 - INFO - Generated: Aashirvaad Brown Rice
+2025-07-18 08:36:30,369 - INFO - Generated: Aashirvaad Sona Masuri Rice
+2025-07-18 08:36:30,470 - INFO - Generated: Fortune Sona Masuri Rice
+2025-07-18 08:36:30,571 - INFO - Generated: India Gate Ponni Rice
+2025-07-18 08:36:30,672 - INFO - Generated: Aashirvaad Brown Rice
+2025-07-18 08:36:30,773 - INFO - Generated: Fortune Jasmine Rice
+2025-07-18 08:36:30,874 - INFO - Generated: Kohinoor Brown Rice
+2025-07-18 08:36:30,976 - INFO - Generated: Lal Qilla Basmati Rice
+2025-07-18 08:36:31,078 - INFO - Generated: India Gate White Rice
+2025-07-18 08:36:31,180 - INFO - Generated: Lal Qilla White Rice
+2025-07-18 08:36:31,281 - INFO - Generated: Tilda Brown Rice
+2025-07-18 08:36:31,383 - INFO - Generated: Daawat Sona Masuri Rice
+2025-07-18 08:36:31,485 - INFO - Generated: Tilda Jasmine Rice
+2025-07-18 08:36:31,586 - INFO - Generated: Kohinoor Sona Masuri Rice
+2025-07-18 08:36:31,690 - INFO - Data saved to bigbasket_rice_products.csv
+2025-07-18 08:36:31,695 - INFO - Data saved to bigbasket_rice_products.json
